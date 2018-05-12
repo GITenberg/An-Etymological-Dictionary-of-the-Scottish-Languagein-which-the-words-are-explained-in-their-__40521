@@ -1,0 +1,30 @@
+_repo: An-Etymological-Dictionary-of-the-Scottish-Languagein-which-the-words-are-explained-in-their-__40521
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jamieson, John
+    birthdate: 1759
+    deathdate: 1838
+    gutenberg_agent_id: '40673'
+    url: http://www.gutenberg.org/2009/agents/40673
+description: ''
+gutenberg_issued: '2012-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40521'
+  lccn: '10031838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scots language -- Etymology -- Dictionaries'
+- !lcc 'PE'
+title: "An Etymological Dictionary of the Scottish Language\r\nin which the words\
+  \ are explained in their different senses, authorized by the names of the writers\
+  \ by whom they are used, or the titles of the works in which they occur, and deduced\
+  \ from their originals"
+url: http://www.gutenberg.org/ebooks/40521
